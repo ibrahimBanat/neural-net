@@ -8,5 +8,6 @@
  Intuitively, to calculate cross-entropy between P and Q, you simply calculate entropy for Q using probability weights from P.</p>
 <br> 
 <h1> Gradient Descent</h1>
+<ul><li><a href="Gradiant-Descent/README.md">README</a></ul>
 
 
